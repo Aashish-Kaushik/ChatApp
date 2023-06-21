@@ -1,0 +1,20 @@
+{
+  "name": "current-project",
+  "version": "1.0.0",
+  "description": "A real time chat app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon ."
+  },
+  "author": "Aashish Kaushik",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^2.7.4",
+    "express": "^4.17.3",
+    "socket.io": "^2.4.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.0"
+  }
+}
