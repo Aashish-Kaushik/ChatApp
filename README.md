@@ -1,5 +1,3 @@
-Certainly! Here's an example of a README file for a chat app project:
-
 # Real-Time Chat Application
 
 This is a real-time chat application built using Node.js, Express, and Socket.IO. It allows users to engage in instant messaging and communicate with each other in real-time.
